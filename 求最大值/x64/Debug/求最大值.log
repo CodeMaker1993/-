@@ -1,0 +1,4 @@
+﻿  test4.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: “CL.exe”已退出，代码为 2。
+H:\VS2022\book1\作业二\求最大值\test4.c(13,9): error C2374: “g”: 重定义；多次初始化
+H:\VS2022\book1\作业二\求最大值\test4.c(10): message : 参见“g”的声明
